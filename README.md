@@ -1,5 +1,32 @@
-# Modern-Java-Technologies-FMI
- 
+
+ # Modern Java Technologies (Съвременни Java Технологии) 2024/25
+ This repository contains some of my work throughout the MJT course at FMI, 2024/25, winter semester.
+
+## [Course project](https://github.com/darimachine/[Proekt Ime])
+
+## Labs
+| # | Topic | Lab task solution |
+| - | :---- | :---------------- |
+| 01 | Introduction to Java | [Course Scheduler](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/01.%20Introduction%20to%20Java/lab/01-course-scheduler), [Text Justifier](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/01.%20Introduction%20to%20Java/lab/02-text-justifier) |
+| 02 | OOP in Java - Part 1 | [GameStore 🎮](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/02.%20OOP%20in%20Java%20-%20Part%201/lab) |
+| 03 | OOP in Java - Part 2 | Here to Upload |
+| 04 | Collections and Clean Code | Here to Upload |
+| 05 | Generics | Here to Upload |
+| 06 | Unit Testing and Mocking | Here to Upload|
+| 07 | IO Streams and Files | Here to Upload |
+| 08 | Lambdas and Stream API | Here to Upload |
+| 09 | Threads | Here to Upload |
+| 10 | Network - Part 1 | Here to Upload |
+
+## Homeworks
+| # | Homework solution |
+| - | :---------------- |
+| 01 | Here to Upload |
+| 02 | Here to Upload |
+| 03 | Here to Upload |
+
+---
+ For more detailed information about the course, visit the [MJT GitHub repository](https://github.com/fmi/java-course).
 # Съвременни Java Технологии @ ФМИ
 
 <img src="web/images/java-23.png"  width="15%" height="15%">
