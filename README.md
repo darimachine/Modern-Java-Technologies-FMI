@@ -9,7 +9,7 @@
 | - | :---- | :---------------- |
 | 01 | Introduction to Java | [Course Scheduler](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/01.%20Introduction%20to%20Java/lab/01-course-scheduler), [Text Justifier](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/01.%20Introduction%20to%20Java/lab/02-text-justifier) |
 | 02 | OOP in Java - Part 1 | [GameStore 🎮](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/02.%20OOP%20in%20Java%20-%20Part%201/lab) |
-| 03 | OOP in Java - Part 2 | Here to Upload |
+| 03 | OOP in Java - Part 2 | [Vehicle Renting 🚗](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/03.%20OOP%20In%20Java%20-%20Part%202/lab) |
 | 04 | Collections and Clean Code | Here to Upload |
 | 05 | Generics | Here to Upload |
 | 06 | Unit Testing and Mocking | Here to Upload|
