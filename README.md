@@ -12,7 +12,7 @@
 | 03 | OOP in Java - Part 2 | [Vehicle Renting 🚗](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/03.%20OOP%20In%20Java%20-%20Part%202/lab) |
 | 04 | Collections and Clean Code | [Social Network 💬](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/04.%20Collections%20and%20Clean%20Code/lab) |
 | 05 | Generics | [Event Bus 🔔](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/05.%20Generics/lab) |
-| 06 | Unit Testing and Mocking | Here to Upload|
+| 06 | Unit Testing and Mocking | [MJT Olympics 🏃‍🏊‍🚴‍🏅](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/06.%20Unit%20Testing%20and%20Mocking/lab)|
 | 07 | IO Streams and Files | Here to Upload |
 | 08 | Lambdas and Stream API | Here to Upload |
 | 09 | Threads | Here to Upload |
