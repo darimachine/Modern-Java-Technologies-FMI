@@ -21,7 +21,7 @@
 ## Homeworks
 | # | Homework solution |
 | - | :---------------- |
-| 01 | Here to Upload |
+| 01 | [Glovo 🚚](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/Homeworks/Homework%201) |
 | 02 | Here to Upload |
 | 03 | Here to Upload |
 
