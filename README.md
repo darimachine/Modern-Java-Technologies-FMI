@@ -13,9 +13,9 @@
 | 04 | Collections and Clean Code | [Social Network 💬](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/04.%20Collections%20and%20Clean%20Code/lab) |
 | 05 | Generics | [Event Bus 🔔](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/05.%20Generics/lab) |
 | 06 | Unit Testing and Mocking | [MJT Olympics 🏃‍🏊‍🚴‍🏅](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/06.%20Unit%20Testing%20and%20Mocking/lab)|
-| 07 | IO Streams and Files | Here to Upload |
-| 08 | Lambdas and Stream API | Here to Upload |
-| 09 | Threads | Here to Upload |
+| 07 | IO Streams and Files | [Photo Edge Detector 🖼️](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/07.%20IO%20Streams%20and%20Files/lab) |
+| 08 | Lambdas and Stream API | [Fraud Detector 💳 🕵️‍♂️](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/08.%20Lambdas%20and%20Stream%20API/lab) |
+| 09 | Threads | [Sentiment Analyzer 📚](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/09.%20Threads/lab) |
 | 10 | Network - Part 1 | Here to Upload |
 
 ## Homeworks
