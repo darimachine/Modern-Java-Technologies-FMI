@@ -22,6 +22,7 @@ public class BookRecommender implements BookRecommenderAPI {
         this.calculator = calculator;
     }
 
+    // THIS METHOD CAN BE OPTIMIZED USING THE METHOD DOWN WHICH IS COMMENTED BECAUSE HERE IT CALCULATES SIMILARITIES MULTIPLE TIMES
     @Override
     public SortedMap<Book, Double> recommendBooks(Book origin, int maxN) {
         validateInputs(origin, maxN);
