@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class CompositeSimilarityCalculator implements SimilarityCalculator {
 
-    Map<SimilarityCalculator, Double> similarityCalculatorMap;
+    private Map<SimilarityCalculator, Double> similarityCalculatorMap;
 
     public CompositeSimilarityCalculator(Map<SimilarityCalculator, Double> similarityCalculatorMap) {
         if (similarityCalculatorMap == null || similarityCalculatorMap.isEmpty()) {
