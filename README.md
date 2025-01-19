@@ -16,7 +16,7 @@
 | 07 | IO Streams and Files | [Photo Edge Detector 🖼️](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/07.%20IO%20Streams%20and%20Files/lab) |
 | 08 | Lambdas and Stream API | [Fraud Detector 💳 🕵️‍♂️](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/08.%20Lambdas%20and%20Stream%20API/lab) |
 | 09 | Threads | [Sentiment Analyzer 📚](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/09.%20Threads/lab) |
-| 10 | Network - Part 1 | Here to Upload |
+| 10 | Network - Part 2 |[Poll System 📊](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/11.%20Network%20-%20Part%202/lab) |
 
 ## Homeworks
 | # | Homework solution |
