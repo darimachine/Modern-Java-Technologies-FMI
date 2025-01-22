@@ -23,7 +23,7 @@
 | - | :---------------- |
 | 01 | [Glovo 🚚](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/Homeworks/Homework%201) |
 | 02 | [Goodreads: Book Recommender 📚](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/Homeworks/Homework%202) |
-| 03 | Here to Upload |
+| 03 | [News Feed 📰](https://github.com/darimachine/Modern-Java-Technologies-FMI/tree/main/Homeworks/Homework%203) |
 
 ---
  For more detailed information about the course, visit the [MJT GitHub repository](https://github.com/fmi/java-course).
