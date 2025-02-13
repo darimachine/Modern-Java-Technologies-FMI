@@ -2,7 +2,7 @@
  # Modern Java Technologies (Съвременни Java Технологии) 2024/25
  This repository contains some of my work throughout the MJT course at FMI, 2024/25, winter semester.
 
-## [Course project - SplitWise](https://github.com/darimachine/SplitWise-MJT-Project)
+# [Course project - Split(NotSo)Wise 💸](https://github.com/darimachine/SplitWise-MJT-Project)
 
 ## Labs
 | # | Topic | Lab task solution |
